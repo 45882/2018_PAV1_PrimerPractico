@@ -1,0 +1,8 @@
+Llevemos el control más basíco posible de visitas.
+Después lo compararemos con la información provista por la herramienta.
+Al hacer un "$ git pull" y traerse este archivo a su disco local;
+por favor modificar este archivo agregando nombre, fecha, hora;
+luego guardar, ejecutar ¨$ git commit -m" y "$ git push".
+Gracias.
+
+Gonzalo - 07/09/2018 - 20:28 hs
