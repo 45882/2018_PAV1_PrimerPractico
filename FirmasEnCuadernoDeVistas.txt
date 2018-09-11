@@ -5,4 +5,4 @@ por favor modificar este archivo agregando nombre, fecha, hora;
 luego guardar, ejecutar: " git add -A ", ¨ $ git commit -m <"comentario"> " y " $ git push ".
 Gracias.
 
-Gonzalo - 07/09/2018 - 20:28 hs
+Legajo: 45882 - Gonzalo Franceschi - 07/09/2018 - 20:28 hs
