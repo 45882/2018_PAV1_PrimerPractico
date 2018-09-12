@@ -6,3 +6,4 @@ luego guardar, ejecutar: " git add -A ", ¨ $ git commit -m <"comentario"> " y " 
 Gracias.
 
 Legajo: 45882 - Gonzalo Franceschi - 07/09/2018 - 20:28 hs
+Legajo: 68187 - Santiago Garay - 11/09/2018 - 20:23 hs
